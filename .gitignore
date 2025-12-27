@@ -1,4 +1,5 @@
 checkpoints/
+data/
 *.pt
 *.pth
 *.ckpt
