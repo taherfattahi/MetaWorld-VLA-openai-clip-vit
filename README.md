@@ -1,4 +1,4 @@
-[![HF Models](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow?style=for-the-badge)]([https://huggingface.co/openvla/openvla-7b](https://huggingface.co/TaherFattahi/MetaWorld-VLA-openai-clip-vit)
+[![HF Models](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow?style=for-the-badge)](https://huggingface.co/TaherFattahi/MetaWorld-VLA-openai-clip-vit)
 
 # MetaWorld-CLIP-BC-VLA
 
