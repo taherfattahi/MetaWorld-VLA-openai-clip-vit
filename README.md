@@ -9,7 +9,7 @@ A lightweight **Vision-Language-Action (VLA)** baseline for MetaWorld robot-arm 
 
 ---
 
-## Demo
+## Demo Video
 <a href="https://youtu.be/7aWUy5V1rC0">
   <img src="assets/frame.jpg" alt="Demo Video" width="500">
 </a>
