@@ -241,7 +241,6 @@ Training uses **Behavior Cloning (BC)** from demonstrations:
 
 ## How to Print / Inspect All Layers
 
-## Print full module tree
 ```python
 from models.vla_clip_bc import VLAClipBC
 
