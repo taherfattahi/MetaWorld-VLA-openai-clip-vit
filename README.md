@@ -10,7 +10,9 @@ A lightweight **Vision-Language-Action (VLA)** baseline for MetaWorld robot-arm 
 ---
 
 ## Demo
-[![Demo Video](assets/frame.jpg)](https://youtu.be/7aWUy5V1rC0)
+<a href="https://youtu.be/7aWUy5V1rC0">
+  <img src="assets/frame.jpg" alt="Demo Video" width="500">
+</a>
 
 ## Features
 
@@ -235,7 +237,7 @@ Training uses **Behavior Cloning (BC)** from demonstrations:
 
 ## How to Print / Inspect All Layers
 
-### Print full module tree
+## Print full module tree
 ```python
 from models.vla_clip_bc import VLAClipBC
 
@@ -244,3 +246,8 @@ print(model)           # prints full nested module tree
 print(model.vision)    # prints CLIP vision internals
 ```
 
+## Contributing
+Contributions are welcome. If you find a bug or have a feature request, please open an issue or submit a pull request.
+
+## License
+This project is released under the <b>MIT License</b>. Feel free to use, modify, and distribute for your own projects.
