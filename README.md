@@ -1,3 +1,5 @@
+[![HF Models](https://img.shields.io/badge/%F0%9F%A4%97-Models-yellow?style=for-the-badge)]([https://huggingface.co/openvla/openvla-7b](https://huggingface.co/TaherFattahi/MetaWorld-VLA-openai-clip-vit)
+
 # MetaWorld-CLIP-BC-VLA
 
 A lightweight **Vision-Language-Action (VLA)** baseline for MetaWorld robot-arm tasks using a pretrained **CLIP-ViT** vision transformer(**openai/clip-vit-base-patch32**), a small text transformer, and robot-state fusion—trained with behavior cloning and evaluated in a MetaWorld MT1 wrapper.
@@ -5,7 +7,9 @@ A lightweight **Vision-Language-Action (VLA)** baseline for MetaWorld robot-arm 
 - **Vision**: pretrained **CLIP ViT** (transformer) as an image encoder  
 - **Language**: small transformer encoder over token IDs  
 - **Robot state**: fused with vision+language embeddings  
-- **Policy head**: predicts continuous actions (MetaWorld-style)  
+- **Policy head**: predicts continuous actions (MetaWorld-style)
+
+<a href="https://huggingface.co/TaherFattahi/MetaWorld-VLA-openai-clip-vi">Download Model</a>
 
 ---
 
